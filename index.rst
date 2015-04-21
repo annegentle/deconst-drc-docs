@@ -4,6 +4,7 @@
     contain the root `toctree` directive.
 
 .. raw:: html
+
   <div class="doc-index">
       <div class="row">
           <div class="col-md-12">
@@ -13,6 +14,7 @@
       </div>
 
 .. raw:: html
+
   <div class="row">
       <div class="col-md-12">
           <h2>
@@ -21,6 +23,7 @@
   :class: product-image
 
 .. raw:: html
+
   Auto Scale
           </h2>
           <p>Rackspace Auto Scale is a service that lets you configure automated scaling of resources in response to an
@@ -40,6 +43,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Backup
           </h2>
           <p>Cloud Backup is a file-based backup solution that allows customization of files, folders, schedule,
@@ -58,6 +62,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Block Storage
           </h2>
           <p>Cloud Block Storage, powered by OpenStack®, delivers consistent performance for your
@@ -77,6 +82,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Databases
           </h2>
           <p>Cloud Databases, powered by OpenStack®, provides fast, scalable, fully managed hosting for your MySQL
@@ -96,6 +102,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud DNS
           </h2>
           <p>Cloud DNS automates and simplifies Domain Name System management. Using the Rackspace Cloud Control
@@ -115,6 +122,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Files
           </h2>
           <p>Cloud Files, powered by OpenStack®, provides an easy to use online storage for files and media
@@ -134,6 +142,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Images
           </h2>
           <p>Cloud Images, powered by OpenStack®, allows you to share, import, and export your virtual machine
@@ -153,6 +162,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Load Balancers
           </h2>
           <p>Mission-critical web-based applications and workloads require high availability. Load balancing
@@ -172,6 +182,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Monitoring
           </h2>
           <p>Cloud Monitoring helps you keep a keen eye on all of your resources. You can monitor activity on websites,
@@ -191,6 +202,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Queues
           </h2>
           <p>Cloud Queues is an open source, scalable, and highly available message and notifications service,
@@ -210,6 +222,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Servers
           </h2>
           <p>Cloud Servers, powered by OpenStack®, are virtual machines running Linux or Windows Server in the
@@ -230,6 +243,7 @@
   :class: product-image
 
 .. raw:: html
+
   Cloud Identity
             </h2>
             <p>Cloud Identity provides authentication and authorization functionality for other Rackspace Cloud services.</p>
@@ -248,6 +262,7 @@
   :class: product-image
 
 .. raw:: html
+
   Orchestration
           </h2>
           <p>Rackspace's Orchestration service provides a template-based way to describe a cloud application. These templates enable you to create the following resource types: instances, floating IPs, volumes, security groups, users, and so on. Also, Orchestration provides some more advanced functionality, such as instance high availability, instance auto-scaling, and nested stacks.</p>
